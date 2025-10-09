@@ -57,5 +57,8 @@ Example JSON content:
   "time": "2025-10-09 12:34:56",
   "image": "violations/cropped_images/car_ID12_1696846492.jpg"
 }
+```
+## DEMO
+<img width="1367" height="1364" alt="image" src="https://github.com/user-attachments/assets/a663fc8e-17b1-404b-96bc-4ee0f4c320d9" />
 
 
